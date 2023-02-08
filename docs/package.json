@@ -1,0 +1,19 @@
+{
+  "name": "VeigaApp",
+  "version": "0.0.1",
+  "description": "Portfolio",
+  "main": "index.js",
+  "authors": {
+    "name": "Jackson Veiga",
+    "email": "jackstveiga@hotmail.com"
+  },
+  "repository": "https://github.com/JTVeiga/vuepress-deploy.git/VeigaApp",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
