@@ -10,7 +10,7 @@ Below is a brief description of the main jobs I am currently involved in: :books
 
 This work is a research on optimization of autonomous vehicle path planning with analysis of safety parameters and airspace dimensioning following risk regulations. This study intends to generate mathematical algorithms that will be later inserted and tested in optimizers, for example A*, RRT, etc.
 
-[[Cooperate](/contact/)]
+[[Cooperate](https://wa.me/+5511992451218)]
 
 </MarkdownCard>
 
@@ -22,7 +22,7 @@ This work is a research on optimization of autonomous vehicle path planning with
 
 Working on the development of training sessions on - i) Applications using Multi-Agent Systems (MAS): This content aims to demonstrate in a practical way with small models aimed at a language close to - 1) manufacturing processes, and 2) virtual assets. I'm separating some scripts that make it easy to understand by simulation of MAS and functional models based on DES - Discret Event Systems. Please wait..
 
-[[Cooperate](/contact/)]
+[[Cooperate](https://wa.me/+5511992451218)]
 
 </MarkdownCard>
 
@@ -34,7 +34,7 @@ Working on the development of training sessions on - i) Applications using Multi
 
 This web-page project was developed in Vuepress, however, based on the lessons learned in Django and Vue-js acquired in the construction of the Webstation-ASA, in recent months I have been working on a platform that aims to host works, research and development that contribute to I4.0 digitalization.
 
-[[Cooperate](/contact/)]
+[[Cooperate](https://wa.me/+5511992451218)]
 
 </MarkdownCard>
 

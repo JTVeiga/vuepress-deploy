@@ -34,16 +34,16 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Projects',
         link: '/guide/',
       },
       {
-        text: 'Config',
+        text: 'Trainning',
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'GitHub',
+        link: 'https://github.com/JTVeiga'
       }
     ],
     sidebar: {

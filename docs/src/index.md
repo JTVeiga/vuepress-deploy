@@ -8,7 +8,7 @@ face: /profile.jpg
 head: 'Hello Engineers and Developers!'
 tagline: 'I hope to help you in the journey to the addition of the different technologies aimed at digital transformation.. Thank you very much.'
 actionText: Training →
-actionLink: /training/
+actionLink: https://wa.me/+5511992451218
 
 info: 'Jackson Tavares Veiga - MSc. Engineer/Full Stack Dev'
 socials:
@@ -28,7 +28,7 @@ actions:
 - text: Google-Scholar
   link: https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=JTVeiga&btnG=
 - text: Email-me
-  link: /contact/
+  link: https://wa.me/+5511992451218
 footer: Made by Jackson Veiga with ❤️
 ---
 
