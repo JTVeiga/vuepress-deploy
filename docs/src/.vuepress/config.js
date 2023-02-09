@@ -42,6 +42,14 @@ module.exports = {
         link: '/config/'
       },
       {
+        text: 'Sw Tester',
+        link: '/test/'
+      },
+      {
+        text: 'I4.0 Guide',
+        link: '/i40/'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/JTVeiga'
       }
