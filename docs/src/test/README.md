@@ -14,3 +14,6 @@ The automation tests make it possible to execute the test plans, so we define wh
 > Unit tests consist of a more detailed level at which each application component or piece of code is checked. In this test, the components are listed, what are the attributions of each part - expected functionalities, what is the input set, how these must be registered and processed, what are the possible failures and results that this component should have from the execution of its functionalities turn back.
 
 ### Methodology and Estudy Case for Automatd Tests:
+
+actionText: Know More →
+actionLink: https://wa.me/+5511992451218
