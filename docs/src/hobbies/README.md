@@ -16,5 +16,12 @@ The relationship between these two beings happens at supernatural levels, being 
 
 ![Alt text](/IEAv.jpg "IEAv")
 
+## I want to be like a bird in Nature
+
+I realize how hard it is to take care of the earth. Do we really care?
+
+>Perhaps the thought of caring is currently closer to exploring. In fact, we have to place ourselves in the position of participating in Nature, as an element that cools and does not produce threats - intruders.
+So, in this position that I stand in, I am now a tool of Mother Earth. I observe the birds that visit me this morning, just like them I want to continuously carry out this work.
+
 
 
