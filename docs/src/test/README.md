@@ -15,5 +15,4 @@ The automation tests make it possible to execute the test plans, so we define wh
 
 ### Methodology and Estudy Case for Automatd Tests:
 
-actionText: Know More →
-actionLink: https://wa.me/+5511992451218
+[Know More (https://wa.me/+5511992451218)]
