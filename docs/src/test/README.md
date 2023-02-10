@@ -2,6 +2,8 @@
 
 Software development applications can be tested considering the user view of the application. A methodology for carrying out these tests can consider both "exploratory" techniques, when the developer only explores the application's functionalities.
 
+<MarkdownCard>
+
 #### Planning Tests:
 > planning tests can be done from a set of manual tests, thus listing all the application's resources, input sets and expected results after we run each code segment. In this method, the procedures described for each resource are used, then the functionality of the resources is tested from a set of inputs and a set of responses is expected to be reached as output data.
 
@@ -15,4 +17,6 @@ The automation tests make it possible to execute the test plans, so we define wh
 
 ### Methodology and Estudy Case for Automatd Tests:
 
-[[Know More] (https://wa.me/+5511992451218)]
+[[Know More](https://wa.me/+5511992451218)]
+
+</MarkdownCard>
