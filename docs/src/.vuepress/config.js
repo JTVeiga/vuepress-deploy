@@ -60,6 +60,10 @@ module.exports = {
       {
         text: 'GitHub',
         link: 'https://github.com/JTVeiga'
+      },
+      {
+        text: 'Contac-us',
+        link: '/contact/'
       }
     ],
     sidebar: {
