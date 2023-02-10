@@ -49,6 +49,14 @@ module.exports = {
         text: 'I4.0 Guide',
         link: '/i40/'
       },
+            {
+        text: 'Books',
+        link: '/books/'
+      },
+      {
+        text: 'Hobbies',
+        link: '/hobbies/'
+      },
       {
         text: 'GitHub',
         link: 'https://github.com/JTVeiga'
