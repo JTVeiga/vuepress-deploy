@@ -24,4 +24,10 @@ I realize how hard it is to take care of the earth. Do we really care?
 So, in this position that I stand in, I am now a tool of Mother Earth. I observe the birds that visit me this morning, just like them I want to continuously carry out this work.
 
 
+## We are more than dimensional beings.
 
+Why were we guided to lead a life in which we ignore the senses and sensations?
+
+> It is more convenient to leave aside the aspects that exist within us, than to deal with the demand to get in and out of certain situations, without having the perception that these can be understood in other realities.
+
+> In nature - a guava tree is bearing fruit, is it aware that its fruits cooperate with other beings, does it understand being part of the whole?
