@@ -22,3 +22,26 @@ The current - traditional systems must be equipped with technologies and tools t
 >In this work, we will explore a methodology with defined steps and stages for the migration of traditional systems until we reach the AAS models, finally, a case study is conceived seeking to conceptualize the new approaches of digital models with the concepts of I4.0.
 
 
+## Methodology used to define the method steps
+
+### Legacy Systems
+
+Traditional manufacturing systems were called in this article Legacy Systems - specifically designed to meet individual demands. Thus, legacy systems have their own architectures and specific production systems.
+
+> In traditional manufacturing systems, distributed control systems are commonly used, supported by Programmable Logic Controls (PLCs) and basic programming languages ​​such as Ladder, Blocks, List. As mentioned in the introduction to this material, these systems need to be transformed into digital models to reach I4.0.
+
+> The first stage of this work classifies an integration proposal that allows interoperability in unified languages ​​of the I4.0 components. The I4.0 standards describe the RAMI 4.0 - Reference Architecture Model for I4.0, being a three-dimensional model that contains layers, life cycle and traditional manufacturing hierarchy standard.
+
+> The interoperability of traditional assets is possible using the AAS specified in I4.0. Before starting the manipulation and vision of the AAS, we will study models and architectures to connect the physical part (Traditional System) with the virtual components (Connected World - I4.0).
+
+### Production Flow Scheme - PFS
+
+The Production Flow Scheme (PFS) technique supports the modeling system of this work derivated from Petri Net (PN) being a representation of discrete event systems (DES).
+
+> These systems allow the systematic decomposition of activities and their flows at a more abstract level, unlike UML (Unified Modeling Language), a language for modeling software. The PFS understands a high-level language independent of technologies and manufacturers widely used to design system processes
+
+### Unified Modeling Language - UML
+
+The class diagrams (UML - Unified Modeling Language) illustrate these elements at a higher level of detail, typical in object-oriented projects (OOP).
+
+> The descriptions presented on the class diagrams do not depict the behavior for individual entities; for this reason, it needs models representing dynamic behavior and relationships between agents

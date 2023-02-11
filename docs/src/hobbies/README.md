@@ -55,3 +55,25 @@ Where do you hide? How did you get this "breastplate", how many characters did y
 I don't want anything if I'm not here, I'm not looking for fame, I'm prosperous and satisfied with my presence.
 
 >My wealth is born in my being, I don't contain them so I want to share. I am fed up, I renew myself and remake myself at all times. The routine does not describe me, but I make it a necessary walk. I walk in the paths I traced, I follow in no direction, but always guarded by its traces.
+
+## Good I saw you
+
+Here I am again with internal thoughts and better understanding of the manifestation that reflects where I stand.
+
+![Alt text](/bentevi.jpg "Bentevi")
+
+> The hope, that the condition would return to its pristine state, but that the corners, come to remind me that here I am. I'm a part of this and it's up to me to generate the energy to move forward.
+
+> At this stage, all Natural beauty supports transformation and, we observe just reminds me every day the price or gratuity for molding me up to that dimension. Watching myself from this point makes me happy to understand what I felt without knowing it, but now.
+
+> Perhaps, with the tools to transmute,
+
+> These are simple words, exchanging, sharing, fulfilling the individual role in the whole. It's up to us to continue neglecting or enter the mission body and soul. Last night under an ignorant optic, which called fantasy, even so, the realms made gifts, bringing healing to this machine. Its grandeur, now experienced in different ways, the magic of that love that overflows, and which invites us to share it every morning.
+
+In that same play I talk to them asking for directions.
+
+>The answers are so sensitive to the point of getting lost again in my linear reasoning. The transformation we seek will never be achieved without first getting rid of this individual and mechanized system. The promise to hold on to their sovereignty, some share over our senses, others camouflage themselves in majesty. Again, the message, not one or the other, but the knowledge of its existence in this great web. Each holarchy is governed by an individual form and sustained by an uncountable one, which transmutes at every moment.
+
+> These sounds, vibrations and different feelings are donated to the next person to carry out the continuity of the great existence, sovereign, perpetual and infinite, which in our understanding is disguised in the void. It is infinite, real and sacred,
+
+> I saw you!
