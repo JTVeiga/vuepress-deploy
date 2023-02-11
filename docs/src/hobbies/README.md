@@ -31,3 +31,27 @@ Why were we guided to lead a life in which we ignore the senses and sensations?
 > It is more convenient to leave aside the aspects that exist within us, than to deal with the demand to get in and out of certain situations, without having the perception that these can be understood in other realities.
 
 > In nature - a guava tree is bearing fruit, is it aware that its fruits cooperate with other beings, does it understand being part of the whole?
+
+![Alt text](/afa01.jpg "AFA-01")
+
+## Walking too fast.
+
+I always walked very fast, very fast, trying maybe to get away, but from what? of my own!
+
+> Walking to reach the setting sun, so fast that I don't move anymore, then I suddenly stopped.
+
+>I stopped and began to observe, observe and follow slowly, trying to readapt myself, try again and, who knows, in this emptiness find myself again.
+
+## Where do you hide?
+
+Where do you hide? How did you get this "breastplate", how many characters did you create to hide from you, where are you?
+
+> What do you have left when getting rid of yourself, these many layers? What does your being appreciate at this moment? Is there something in this emptiness, can it touch its essence, in any of these places, in these created scenarios, do you exist or is it the fruit of your imagination?
+
+![Alt text](/afa02.jpg "AFA-02")
+
+## I'm prosperous and satisfied with my presence
+
+I don't want anything if I'm not here, I'm not looking for fame, I'm prosperous and satisfied with my presence.
+
+>My wealth is born in my being, I don't contain them so I want to share. I am fed up, I renew myself and remake myself at all times. The routine does not describe me, but I make it a necessary walk. I walk in the paths I traced, I follow in no direction, but always guarded by its traces.
