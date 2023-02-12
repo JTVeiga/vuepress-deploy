@@ -34,6 +34,36 @@ Traditional manufacturing systems were called in this article Legacy Systems - s
 
 > The interoperability of traditional assets is possible using the AAS specified in I4.0. Before starting the manipulation and vision of the AAS, we will study models and architectures to connect the physical part (Traditional System) with the virtual components (Connected World - I4.0).
 
+### Firs Step - Integrtion of Legacy Systems
+
+RAMI 4.0 addresses guidelines for developing applications in the I4.0 context. Legacy systems that use classic control architectures need to be transformed into virtual models with AAS support.
+
+> Currently, different works propose the gradual migration of legacy systems, for example the IMPROVE or PERFoRM projects, however it is observed that these present specific proposals or a very generic architecture that must be followed to design the models for each use case.
+
+> Taking into account the approaches and concepts mentioned, the first stage of the methodology of this work deals with the "INTEGRATION" of legacy systems from manufacturing to AAS. In this sense, we will now discuss the means for interface, the protocols that should be used, such as OPC-UA.
+
+We will then follow the layered model of RAMI 4.0 to meet the standardization requirements of the languages ​​of the legacy system, the I4.0 language - OPC-UA. Thus physical assets will now be considered I4.0 - I4.0C components.
+
+> I4.0C must be unique, identifiable and meet communication requirements. An I.4.0 according to the descriptions of I4.0 can range from a sensor to an entire work plant, therefore, in this study we will consider I4.0C workstation modules, such as: Robotic Arm, Handling Station, Packing Machine
+
+### Details of RAMI 4.0 Layers for communication migration from Legacy Systems.
+
+The I4.0 Guidance X document simplifies the layers responsible for applications and integration tools for exchanging data between the physical and virtual element of the AAS.
+
+> The OPC-UA is used as a standardization protocol for the different languages ​​of legacy systems. Allowing data exchange between these layers uses standard XML or JSON protocol.
+
+### Framework for transforming legacy assets into AAS
+
+In this study, we will use a basic structure of AAS that exchange data with legacy devices. Thus we consider: a) Active Workstation; b) Asset Product; c) Active Integrator.
+
+> The workstation actually deals with the existing legacy system, the active product refers to hardware inserted in the control system that collects data from the flow of the part in the workstations, while the active integrator is also a second board containing the OPC tools -UA and XML models for collecting and converting data to virtual models, finally there is a computer containing the I4.0 framework with images of each physical asset using AAS concepts (we will not detail this in this first step).
+
+> The PC asset deals with orchestrators and frameworks containing AAS, the "Integrator" asset allows connecting heterogeneous field protocols via OPC-UA from workstations and product assets, enabling the flow of data between the physical layer and the functional layer - containing the AAS.
+
+> Finally, in the lower part of the figure, the industry's legacy control systems were designed. Note that these are equipped with a port for OPC-DA communication via Ethernet TCP/IP. Thus, in the Integrator, the Matrikon-OPC tool was used for the communication of the assets - Station.
+
+> Figure-x is about the simplified flow of information between station assets, integrator asset and PC-AAS asset.
+
 ### Production Flow Scheme - PFS
 
 The Production Flow Scheme (PFS) technique supports the modeling system of this work derivated from Petri Net (PN) being a representation of discrete event systems (DES).
