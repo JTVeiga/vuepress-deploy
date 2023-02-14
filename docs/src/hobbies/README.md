@@ -77,3 +77,11 @@ In that same play I talk to them asking for directions.
 > These sounds, vibrations and different feelings are donated to the next person to carry out the continuity of the great existence, sovereign, perpetual and infinite, which in our understanding is disguised in the void. It is infinite, real and sacred,
 
 > I saw you!
+
+![Alt text](/Trip01.jpg "Viagen Inicio")
+
+When I started, I didn't know what I might find. I didn't have a well-defined plan, just a desire to live every moment, to meet new people around the corner.
+
+> Following this road and finding similar people with the same motivation, making exchanges and developing this dream, takes it off paper and little by little consolidates it as my lifestyle.
+
+> I wanted to learn along the way, I didn't want it to be perfect, because it never is.. An atypical trip without a destination, but with a well-defined mission to come back better and bring a lot of experience back with you.. JT Veiga, 02/13, Beginning of the journey to connect with me
