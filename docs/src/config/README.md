@@ -72,6 +72,35 @@ In this project it is intended to advance in the studies and modeling skills acq
 
 </MarkdownCard>
 
+### Training 01 - Prediction of Species in Deforested Area
+
+This material is a summary of Ebook-01 (Species Prediction for Reforestation in Deforested Areas) creates a fictitious case study on "Data Analysis" consultancy to generate a list of predictions for "Reforestation" of deforested areas.
+
+* Context:
+  > A certain company that monitors "Deforested Areas" consulted me to carry out a study regarding the presentation of solutions for optimizing the choice of "Protection Environments" and "Deforested Areas" based on a forecast that is based on the species of trees "Nearby".
+  Based on the information received, I used the CRISP-DM method for construction and "STRUCTURING" of the solution in "Data Analysis" and "Generation of a POC" with first results.
+
+* The method chosen to deal with the problem:
+
+> a) Business Understanding: This initial phase focuses on understanding the objectives, then you can convert this knowledge into a problem for data mining.
+
+  * a.1) Presented objectives: Generation of information for reforestation based on the population in the vicinity of the deforested area.
+
+  * a.2) Conversion of knowledge into a problem to mine data:
+
+> b) Data Understanding: The data understanding phase starts with an initial data collection and proceeds with activities for familiarization and understanding, identifying problems, checking data quality, discovering first insights, detecting interesting sets and FORMULATING HYPOTHESES.
+
+> c) Data Preparation: Steps that precede the final construction of the "Poc Solution" - that is to leave the model input prepared - data that will be fed into the modeling tool from raw data. These tasks are executed in cycles until the desired result is obtained, including: Generating Tables, Registers, Selecting Attributes, Cleaning Data, Building New Attributes, Transforming data for the modeling tool.
+
+> d) Modeling: In this step, "Modeling Techniques" are used, applications are selected, parameters to validate the idea. Modeling and data preparation are closely linked, at this stage problems such as missing data are perceived and "New Ideas for Model Construction" are generated.
+
+> e) Validation: At this stage, the model has already been "Built" with good quality. Before implementing it is necessary to test, review the execution steps for construction so that it reaches the initial objective. It can be checked if there is any question that considers data from results and tests for decision making.
+
+> f) Implementation: Creation of the model, end of the project, normally here the presentation of how to use the generated "artifact" is organized for customer orientation. Determine what actions will need to be taken to use the created templates.
+
+* Use of the chosen method in the context of the presented problem:
+    [[Buy Ebook](https://wa.me/+5511992451218)]
+
 ## Tutorial Section
 
 ### Example of Using the Decision Tree Algorithm in Python
