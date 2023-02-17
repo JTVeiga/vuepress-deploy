@@ -34,7 +34,7 @@ Traditional manufacturing systems were called in this article Legacy Systems - s
 
 > The interoperability of traditional assets is possible using the AAS specified in I4.0. Before starting the manipulation and vision of the AAS, we will study models and architectures to connect the physical part (Traditional System) with the virtual components (Connected World - I4.0).
 
-### Firs Step - Integrtion of Legacy Systems
+### First Step - Integration of Legacy Systems
 
 RAMI 4.0 addresses guidelines for developing applications in the I4.0 context. Legacy systems that use classic control architectures need to be transformed into virtual models with AAS support.
 
@@ -46,13 +46,13 @@ We will then follow the layered model of RAMI 4.0 to meet the standardization re
 
 > I4.0C must be unique, identifiable and meet communication requirements. An I.4.0 according to the descriptions of I4.0 can range from a sensor to an entire work plant, therefore, in this study we will consider I4.0C workstation modules, such as: Robotic Arm, Handling Station, Packing Machine
 
-### Details of RAMI 4.0 Layers for communication migration from Legacy Systems.
+#### Details of RAMI 4.0 Layers for communication migration from Legacy Systems.
 
 The I4.0 Guidance X document simplifies the layers responsible for applications and integration tools for exchanging data between the physical and virtual element of the AAS.
 
 > The OPC-UA is used as a standardization protocol for the different languages ​​of legacy systems. Allowing data exchange between these layers uses standard XML or JSON protocol.
 
-### Framework for transforming legacy assets into AAS
+#### Framework for transforming legacy assets into AAS
 
 In this study, we will use a basic structure of AAS that exchange data with legacy devices. Thus we consider: a) Active Workstation; b) Asset Product; c) Active Integrator.
 
@@ -63,6 +63,34 @@ In this study, we will use a basic structure of AAS that exchange data with lega
 > Finally, in the lower part of the figure, the industry's legacy control systems were designed. Note that these are equipped with a port for OPC-DA communication via Ethernet TCP/IP. Thus, in the Integrator, the Matrikon-OPC tool was used for the communication of the assets - Station.
 
 > Figure-x is about the simplified flow of information between station assets, integrator asset and PC-AAS asset.
+
+### Second Step - Modeling of the virtual part of the AAS.
+
+After enabling the traditional systems to be perceived by the new I4.0 systems, it is necessary to design the AAS models.
+
+ * In this step, we use the concepts of the I4.0 guidelines:
+
+> An AAS can be a physical asset or not, for example, processes, products, stations, controllers, resources, drawings, etc. In this study we will focus on the standardization of resources using AAS. The Asset Administration Shell (AAS) is the composition of the "Asset" and the "Administration Shell", this one is conceived as a meta-model made up of different sub-models that describe the attributes of the asset - resource.
+
+> The main parts of an AAS are the header - responsible for standardized identification and the body - which makes up the other sub-models of the asset's domain.
+
+> The AAS comprises a minimal set of submodels that allowed the “asset” to perform a specific function.
+
+ * A sub-model deals with specific aspects of the resource, for example:
+
+ > means of communication, functionalities and services, standard identifiers.
+
+### Step Three - Integration of data from the traditional system with the virtual part of the AAS
+
+   [Brief in Whatsapp](https://wa.me/+5511992451218)
+
+### Step Four - AAS Construction Practice Test
+
+   [Brief in Whatsapp](https://wa.me/+5511992451218)
+
+### Step Five - Bonus application development for data exchange between AAS.
+
+   [Brief in Whatsapp](https://wa.me/+5511992451218)
 
 ### Production Flow Scheme - PFS
 
