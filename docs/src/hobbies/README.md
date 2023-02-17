@@ -85,3 +85,87 @@ When I started, I didn't know what I might find. I didn't have a well-defined pl
 > Following this road and finding similar people with the same motivation, making exchanges and developing this dream, takes it off paper and little by little consolidates it as my lifestyle.
 
 > I wanted to learn along the way, I didn't want it to be perfect, because it never is.. An atypical trip without a destination, but with a well-defined mission to come back better and bring a lot of experience back with you.. JT Veiga, 02/13, Beginning of the journey to connect with me
+
+![Alt text](/Mountain.jpg "Montanha")
+
+## VIEW FROM THE TOP OF THE MOUNTAIN
+
+> As far as it is from blossoming it sustains its splendor in noticing them reach the skies then the warrior from the top of the mountain, saw the your beauty, and on this day you will be grateful reinvigorating your energies for the next battle...
+
+![Alt text](/Guerreiro.jpg "Guerreiro")
+
+## THE WARRIOR
+
+> They are calling me to combat,
+  but tired of fighting causes
+  others, like a good warrior
+  don't dare to be a show
+  in the eyes of yesteryear,
+  So, you want to rest in front of
+  of your own battle, glimpse
+  your own pains and so,
+  no but the warrior goes
+  and stay an admirer of your own journey..
+
+![Alt text](/YYY.jpg "XXXX")
+
+## WORDS FROM THE SOUL
+
+> The great mystery consists in the simplicity of opening our heart. Despite the effort I make now to convey the message, this one is not can be transformed into rationalized words, as it is a simple way we manage to survive. I wish it could put on paper what I feel right now, from
+of my prayers that I raise to the heavens, portals open between my body and connects with the great I am. I feel you present in the singing of distant birds, but around of this majestic dance. An integration becomes inexplicable, but it is up to us feel, to thank with all due respect for all the present effort that still take care of us.
+
+![Alt text](/YYY.jpg "XXXX")
+
+## SATURDAY AFTERNOON
+
+> This Saturday afternoon, I'm looking for natural pleasures, but that's not it.
+What do the vast majority do? move from one place to another, like animals
+rational, letting their reasons emerge, but it is in the universal and subtle knowledge
+that I cling to and your presence is enough for me here, in these two square meters.
+The will is to fly like the birds, I completely disintegrate from this naturalness
+letting me join the great conscience.
+However, fear still prevents me from moving away from my loved ones, they are sleeping..
+Understanding that they have a special mission in my life. Process or
+maturation in search of union with those who provide energy for advancement.
+
+![Alt text](/YYY.jpg "XXXX")
+
+## TRANSITION MOMENT FOR HUMANITY
+
+> The message was not so clear, or rather, I lack tools for understanding
+it is necessary to trust unknown beings, but who make gifts in
+channels of pure garments. The transition is happening, new concepts of mind that
+they mix intellect, feeling and reason. The energy we receive goes beyond this
+state of consciousness, therefore, meditations and training in this new area is necessary.
+Between this message, I cling to the understanding that DEFORMATION will be the return
+of the majority of the species the origin. Those who cling and transform again
+in primitive beings. On the other hand, a select group that supports us chooses the transition
+from which new possibilities enter...
+It is not new that a present group seeks super-powers, these can be
+mixed with EGO and a great desire for control. We call them special beings
+enter environments that we find as owners, or true heirs of this reign.
+However, in my research, it is noted that those who are less concerned with the domain
+and power, as true members of that universal consciousness.
+A possible unity, but an illusion of our minds? because the message I get here
+approaches the simplicity of being..
+The doubt remains about, the animal that emerges or the being of Light that transits to a
+high environment out of these feelings?
+
+![Alt text](/YYY.jpg "XXXX")
+
+## LIVING BETWEEN TWO WORLDS
+
+> The only certainty we have will be the coexistence within the unit of natural time,
+no rush to pass. Living in the present, exploring parallel times and understanding
+this invitation, if we are allowed to do so. But understand the mysteries and reach the
+maximum efficiency in this dimension, that too is a gift.
+
+![Alt text](/YYY.jpg "XXXX")
+
+## RESPECT THE UNIVERSAL DANCE
+
+>Respect your nature, nourish yourself with the offerings of our mother's womb while
+available, the treaty is fulfilled while others feed, even if they reach
+other lifting methods. Watch the animals, and respect the deal while we're at it.
+here. The machine of this reality depends on these resources, so let's continue our dance
+universal until it is fulfilled.
