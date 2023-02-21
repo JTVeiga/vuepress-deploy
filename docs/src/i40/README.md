@@ -80,11 +80,85 @@ After enabling the traditional systems to be perceived by the new I4.0 systems, 
 
  > means of communication, functionalities and services, standard identifiers.
 
+
 ### Step Three - Integration of data from the traditional system with the virtual part of the AAS
+
+Industry 4.0 has to provide horizontal, vertical and full integration and interoperability.
+
+> This is not easy task due to the low level of flexibility of automation technology, high specificity of industrial assets and the lack of interoperability perability between heterogeneous systems.
+
+> A major challenge will be the standardization of virtual assets focused on this work. It is noted that traditional manufacturing systems needed to comply with the new regulations for them to achieve interoperability and enable integration with their representation as a digital twin throughout its lifecycle.
+
+We should keep an eye on the definitions and standards for smart manufacturing. Currently different models are proposed such as RAMI4.0, IIRA or SME.
+
+> The Asset Administration Shell (AAS) of the German I4.0 initiative, was proposed by The German platform Industrie 4.0, which aims to describe a
+electronically active in a standardized way, allowing for interoperability bility between different assets in a plant.
+
+
 
    [Brief in Whatsapp](https://wa.me/+5511992451218)
 
 ### Step Four - AAS Construction Practice Test
+
+Traditional environments are characterized by processes that cooperate to achieve a certain goal.
+
+> The difference of traditional systems for i40 is that normally the engineering of these applications are static and pre-defined.
+In I4.0 there is the life cycle axis in which the assets walk in different stages in the value chain.
+
+* A comparison between traditional manufacturing and I4.0:
+
+> In traditional systems, processes are designed
+   a) Define engineering procedures
+   b) The equipment is specified
+   c) Work plan, standards and operations are defined
+   d) Finally, the plant is implemented, prepared and delivered to the customer.
+
+* In case of divergence, check all previous steps.
+
+> At I4.0 we talk about the concept of Digital Twin - DG. This can be designed from the following steps:
+   a) Define content and objectives
+   b) Digital models are created to help specialists in planning. At this stage, the functions of the objects can be related to the resources.
+   c) Electronic manufacturing catalogs are consulted, allowing the selection of equipment aspects.
+   d) The simulation can be validated, automatic orders for equipment are generated, models and integration for digital operation are tested.
+   e) Finally, the I4.0 models are generated at runtime, each component receives a "Ainistracao Shell"
+
+After completing this step, these models are ready to communicate with traditional systems:
+
+> Note two distinct life cycles. Thus, an architecture is needed that proposes how to integrate Los. Here we will stick to RAMI4.0. The standardization of these I4.0 components can be called I4.0C
+
+   * How do I make an AAS?
+
+   AAS is nothing more then the virtualization form of I4.0C.
+
+   > This is made up of several submit them..
+
+   > AAS allows the asset to realize different use cases for each specific application of traditional systems
+
+   Here we will mention some use case examples, so we will stick to one of them to better exemplify the problem.
+
+
+* The first use case presents the implementation of AAS in an industrial setting. The use case considers a plant composed of a robotic arm, a grinding machine and a layer of semantic harmonization [1]
+
+> The first use case features the creation of two AAS - Robotic Arm and Grinding Machine. The interoperability between these virtual assets is tested using a semantic integrator.
+
+> This demonstrator was based on a SainSmart Robotic Arm11, a Raspberry Pi and a controller board for the Adafruit12 servants
+
+* At the hardware control level we have:
+
+> The robotic arm has 4 axes controlled by four servants. The function of the Raspberry Pi is to control the movement, through a standard keyboard connected by USB, and to serve the information model of the RoboticArm. The keystrokes will be transformed into the appropriate signals for the servants through the Adafuit Servo Hat card. This small board is connected above the Raspberry Pi and adds the necessary interfaces to control the servos via pulse-width modulation (PWM) signals.
+
+> At the AAS level were designed:
+
+* Robotic Arm: submodels for Identification, Documentation and Condition Monitoring.
+
+ > Submodel Documentation: manufacturer, model, serial number. The documentation
+submodel contains information about the files that document the asset (data sheet, maintenance manual).
+
+* Condition Monitoring submodel:
+ > properties like AxisType and which are relevant to our demonstrator like such as the movement profile and the actual position of each axis of
+the RoboticArm
+
+#### AAS implementation
 
    [Brief in Whatsapp](https://wa.me/+5511992451218)
 
@@ -103,3 +177,6 @@ The Production Flow Scheme (PFS) technique supports the modeling system of this 
 The class diagrams (UML - Unified Modeling Language) illustrate these elements at a higher level of detail, typical in object-oriented projects (OOP).
 
 > The descriptions presented on the class diagrams do not depict the behavior for individual entities; for this reason, it needs models representing dynamic behavior and relationships between agents
+
+[1] Towards an Asset Administration Shell scenario: a use case for interoperability and standardization in Industry 4.0
+[2]
