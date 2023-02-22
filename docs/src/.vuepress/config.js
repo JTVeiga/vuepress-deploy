@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Simulation & Controll - I4.0 Consultant',
+  title: 'Educating Engineers for Digitization - I4.0 Consultant',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

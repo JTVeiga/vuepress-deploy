@@ -64,6 +64,36 @@ In this study, we will use a basic structure of AAS that exchange data with lega
 
 > Figure-x is about the simplified flow of information between station assets, integrator asset and PC-AAS asset.
 
+#### Simulation for Interoperability of Traditional Systems using OPC-UA
+
+Unified Architecture (OPC UA) is a service-oriented, platform-independent architecture that integrates all the functionality of classic OPC-UA.
+
+> Open Platform Communication (OPC) is a series of open standards and applications developed by the OPC Foundation, an international organization with a goal to develop a platform independent, secure and interoperable data exchange standard for automation. In 2008, the OPC Foundation published the Unified Architecture, which has the potential to be an integration standard for M2M, as a communication protocol defined by IEC62541.
+
+> The Unified Architecture (OPC UA) server can host the AAS and provide a semantic data space for each asset. For this, one can determine the specific data, identification, data capacity with its metadata, in the domain of that architecture.
+
+> Physical connection is the first phase of a Plug and Produce arrangement where the I4.0 component needs to be connected to a production system via wired or wireless methods. The connection process allows an asset to be identified by a Plug & Produce system to initiate automated process configuration.
+
+> The second step will be the generation of the OPC UA configuration file after creating the information model. It incorporates the information model for the field device, which encompasses the OPC UA Base Node Set, device mate specific node set, and the device information model.
+
+The framework protocols of OPC UA communication presented a structure of messages and characteristics of data transport that met the needs of integration between several manufacturers that made up the autonomous automated manufacturing cell.
+
+> PLCs (Programmable Logic Controllers) are an important control element in manufacturing configuration systems and there are many experts in the market who can interface and program such industrial computers. However, very few of them know how to connect PLCs to the IT world (e.g. cloud, augmented reality, mobile or web apps, etc.).
+
+> These devices can use wireless communication over standardised network protocols to communicate relevant data from each physical system back to a central server for monitoring and analysis. The results of this analysis can then be relayed back to the physical system to enable more autonomous operation, increase accuracy, improve maintenance and improve uptime. But the focus of this work is to achieve integration with AAS.
+
+For a practical demonstration of the integration of traditional industry systems to virtual components, we present the basic theoretical aspects and software tools that are used in educational case studies:
+
+> a) The Codesys or SoftPLC software will allow the simulation of the traditional PLC;
+> b) OPC Communicator - allows the generation of publish/subscriber messages
+> c) UA-Gateawy - used for standardization of OPC-UA protocols
+> d) OPC-UA Expert or NodeRED - for reading data and creating standard UA models.
+
+The studies deal with the control of systems, an environment for running the control system is needed:
+
+ > We will use a computer to simulate the PLC Control. As in [2] industry-PC can be turned into an automation system by a PLC runtime
+system, also known as a runtime system, which allows you to cyclically automate and control technical operations, process sequences, and similar procedures
+
 ### Second Step - Modeling of the virtual part of the AAS.
 
 After enabling the traditional systems to be perceived by the new I4.0 systems, it is necessary to design the AAS models.
@@ -179,4 +209,4 @@ The class diagrams (UML - Unified Modeling Language) illustrate these elements a
 > The descriptions presented on the class diagrams do not depict the behavior for individual entities; for this reason, it needs models representing dynamic behavior and relationships between agents
 
 [1] Towards an Asset Administration Shell scenario: a use case for interoperability and standardization in Industry 4.0
-[2]
+[2] Educational Case Studies for Pilot Engineer 4.0 Programme: Monitoring and Control of Discrete-Event Systems Using OPC UA and Cloud Applications
