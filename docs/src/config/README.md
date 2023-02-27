@@ -214,3 +214,76 @@ See you soon, Jackson T. Veiga
 [8] https://towardsdatascience.com/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-1c50b4aa68dc
 
 [9] https://graphviz.org/
+
+### 1 - Task Data Exploration and Analysis - Internet Movie Database
+
+In this exercise we will work with a real database with more than 100 thousand movie data events.
+
+To carry out this exercise it will be necessary to use the base (Internet Movie Database).
+
+#### 1.1 Download the data set movie_metadata.csv, which contains data about films from IMDb (Internet Movie Database).
+
+ - movie_metadata.csv
+
+#### 1.2 The duration column contains data on the film length. How many missing values are there in this column?
+
+
+#### 1.3 Replace the missing values in the duration column with the median value for this column.
+
+#### 1.4 What is the average film length? Give the answer as a floating-point figure rounded to two decimal places.
+
+#### 1.5 Create a movie_duration_category column, which will contain three categories depending on the film length:
+
+  * Category "1. <90" if the film is less than 90 minutes long
+  * Category "2. 90–120" if the film is between 90 minutes and two hours long (inclusively)
+  * Category "3. >120" if the film is more than two hours long
+
+#### 1.6 Build a summary table for films released after 2000 (inclusively), to list the numbers of films:
+
+  * Table rows: year
+  * Table columns: movie duration category ("<90", "90–120", ">120")
+  * The year of release should be displayed in the YYYY format.
+
+#### 1.7 How many films between 90 minutes and two hours long were released in 2008?
+
+#### 1.8 The plot_keywords column holds keywords characterizing the film's plot. Using the data in this column, create a column called movie_plot_category, to contain four categories depending on the key words in the column:
+
+  * Category "love_and_death" if the keywords include both "love" and "death"
+  * Category "love" if the keywords include the word "love"
+  * Category "death" if the keywords include the word "death"
+  * Category "other" if the keywords do not meet the conditions above
+
+#### 1.9 The imdb_score column shows a viewer rating for the film. Build a table to reflect the average rating of films depending on which movie_plot_category category they belong to.
+
+#### 1.10 What is the average rating of films in the "love" category? Give the answer as a floating point figure rounded to two decimal places.
+
+#### 1.11 The budget column contains the film's budget. What is the median budget for all the films listed? Give the answer as an integer.
+
+///////////////////////////////////////////////////////////////////////////////
+### 2 - Task Data Exploration and Analysis - Mobile Application of Users
+
+In this exercise we will work with a real database, our exercise will be to explore data and analyzes considering the history of user access events on the platform. Thus, we will analyze lifetime, user retention, LDV, ARPPU and average purchase time.
+
+#### 2.1 Download the event_data.csv dataset, which contains data on the use of the mobile application of users who registered from July 29 to September 1, 2019:
+ * user_id - user identifier;
+ * event_date - time of the event;
+ * event_type - type of event: registration - registration in the application;
+ * simple_event - click event in the application; purchase - an event of purchase within the application; purchase_amount - purchase amount.
+
+#### 2.2 Highlight user cohorts based on the week of registration in the application. The cohort identifier should be the week ordinal (for example, the week from July 29 to August 4 should have identifier 31).
+
+#### 2.3 How many unique users in the cohort with ID 33?
+
+#### 2.4 For each event, highlight the indicator lifetime - the weekly lifetime of the cohort.
+  > The lifetime indicator is calculated based on the serial number of the week in which the event is committed, relative to the week of registration. For example, an event committed on August 3 by a user from a cohort of registrants at 31 weeks will be committed on the zero week of lifetime, and an event committed by the same user on August 5 will be committed on the first week of lifetime).
+
+#### 2.5 Build a summary table of changes in the Retention Rate for cohorts depending on lifetime.
+
+#### 2.6 What is the 3 week retention rate for a cohort with ID 32? Give the answer in percent, rounded to 2 decimal places, inclusive.
+
+#### 2.7 Build a summary table of changes in the indicator ARPPU (Average Revenue Per Paying User) for cohorts depending on lifetime.
+
+#### 2.8 What is the 3-week ARPPU of a cohort with ID 31? Give the answer with a floating point number, rounded to 2 decimal places, inclusive.
+
+#### 2.9 What is the median time between user registration and first purchase? Give the answer in seconds (!) As an integer.
+
