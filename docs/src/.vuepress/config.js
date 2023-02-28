@@ -42,16 +42,16 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'Sw Tester',
-        link: '/test/'
-      },
-      {
         text: 'I4.0 Guide',
         link: '/i40/'
       },
             {
         text: 'Books',
         link: '/books/'
+      },
+      {
+        text: 'Downloads',
+        link: '/downlods/'
       },
       {
         text: 'Hobbies',
