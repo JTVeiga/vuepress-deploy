@@ -1,3 +1,32 @@
+## Nature's Architect
+
+> Somebody one day has thinked about this trees. Somebody one day has imagined their growing up and touthing the sky. He imagined each detail, the line, the crossing, how large. The trees give us fresh, one day somebody dreamed with this sense.
+
+## Its Internal fell It
+
+> Teach me to love again, to trust you, in the balance so that there is harmony and evolution.
+Counterbalancing is necessary to balance, differences are important, so much love that lives right there, I can feel it, I can see it, I can smell it. It is serene, it is in the stillness, in the blowing, it is everywhere, it is eternal, it overflows, fills our eyes, makes our heart beat faster and invigorates our thoughts.
+It's here in simplicity, internal, feel it.
+
+## The sunset in our Souls
+
+> I observe the sunset, I observe the painting in front of me, I make it my inspiration, my mind, my home, there on the horizon, guarded, among the clouds in the part where it shines best for her. The coconut trees become and sway, there I notice the infinity that shines, the origin, the renewable source resurfaces every day in our souls.
+
+## Mother Earth Womb
+
+> I imagine myself in a beautiful environment where walls do not delimit spaces, in this environment people are the main thing, they live for Love, share emotions and experiences.
+Now I see myself building these environments, every detail following the will of Mother Earth, her womb is the foundation and I consolidate myself in it, without the need for exploration but cooperation.
+Understanding and guidelines of its structure are stamped everywhere.
+
+## We are Interface
+
+> Today I feel outside, not fully but outside, far from patterns, groups and concepts.
+This feeling, while liberating, is dependent.
+To depend on the system is to be its slave, so let's make our system.
+In my mind comes memories of groups that I never thought I would miss, but today I did. The moments we talked about, the meetings, the bold lunches in the northeastern tradition.
+Have the dead ceased to exist in any relation - ceased to be I-AI? I interface, I communicate. We are Interface!
+
+
 ## Time Travel
 
 >Through the subtle laws of the universe, we can go anywhere. The same freedom can happen on the emotional levels where man frees himself from events and natural laws, thus expanding contact with HIS superior image and, not depending on the mental plane.
