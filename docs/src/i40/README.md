@@ -6,7 +6,12 @@ seu navegador não suporta HTML5
 
 ## Simulaton-based approaches applied in the context of Industry 4.0
 
-There are different approaches to simulation. The figure below provides an overview of these approaches in the I4.0 context:
+One of the relevant topics for I4.0 is simulation, simulation is a fundamental technique for analyzing behavior of complex systems. Simulation can be used to minimize the cost associated with it. The development of experiments with the current system, to observe the behavior of processes in the real world, or with the construction of a physical model.
+
+Advantages of using simulation approaches include: running tests quickly and cheaply without interrupting the actual system (risk-free shipping
+environment), compressing or expanding time for a particular observation, and use of animation (visualization of dynamic systems) to facilitate model communication and validation.
+
+There are different approaches to simulation.
 
 <div align="center">
 
@@ -14,10 +19,12 @@ There are different approaches to simulation. The figure below provides an overv
 
 </div>
 
+The figure above provides an overview of these approaches in the I4.0 context and bellow we will detail each of these concepts.
+
 ### Agent-Based Modeling and Simulation (ABMS)
-is considered a relatively new approach to model complex systems composed of interactive and autonomous agents. ABMS is defined as a set of elements (agents) characterized by attributes that interact with each other through "appropriate rules" for a given environment.
+> is considered a relatively new approach to model complex systems composed of interactive and autonomous agents. ABMS is defined as a set of elements (agents) characterized by attributes that interact with each other through "appropriate rules" for a given environment.
 The agent is a complex software unit capable of operating autonomously and following a set of rules.
-ABMS has an important participation as a model to achieve CPS
+ABMS has an important participation as a model to achieve CPS and simulation i4.0.
 
 ### Discret Event Simulation (DES)
 > It is defined as "state variables that change only at the discrete points in time when the event occurs". The event consists of the occurrence that changes the state of the system. The system state variable represents all the information needed to describe the behavior of the system at a given point in time. DES is process-oriented, developed primarily using process flowcharts, and operates at discrete times. The level of abstraction of DES models is generally medium to low.
@@ -38,8 +45,13 @@ ABMS has an important participation as a model to achieve CPS
 > is a graphical and analytical discrete event simulation used to model and simulate flexible manufacturing systems. The PN formalism is suitable for representing concurrent, asynchronous, distributed, parallel and stochastic systems. In general, a PN consists of four elements: places — represented by circles, transitions — represented by rectangles, edges — represented by direct arrows, and tokens — represented by small solids (Pishing et al., 2018).
 
 ### Hybrid Simulation (HS)
+> combination of simulation with optimization approaches, ie simulation-optimization. there are four types of hybridization: sequential — the output of one model is the input for another model; enriching - restricted use of another method by a dominant; interaction — models interact cyclically without domain; and integration — where it is not easy to distinguish the beginning of one method and the end of another method. There are different types of HS models in the literature, such as DES-ABMS (Farsi et al., 2019), SD-ABMS (Nassehi & Colledani, 2018), DES-VR (Turner et al., 2016), ABMS-Data Science ( Houston et al., 2017), Simulation-Big data (Vieira et al., 2019b), PN-AI (Drakaki & Tzionas, 2017) and multilevel simulation (Delbrügger et al., 2019)
 
 ### Digital Twins (DT)
+> refers to the digital representation of an ical system and the seamless integration between physical and digital spaces (Cimino et al., 2019). DT is commonly defined as “a multiphysics, multiscale, probabilistic, ultra-fidelity simulation that reflects, in a timely manner, the state of a matching twin in historical data, real-time sensor data, and physical model”.
+
+> It was initially developed within the aerospace industry than extended to the manufacturing field. DT is a hybrid approach, built into four levels:
+geometry, physics, behavior, and rule:  The first two levels involve mainly kinematics and geometric simulation, also referred to as continuous simulation.  Levels three and four involve different simulation approaches, such as DES, ABMS, and AI techniques
 
 ### Virtual Commissioning (VC)
 > VC is a digitization method to accelerate the commissioning of a new production process through an environment. Known as a test method that uses simulation models and emulated controllers during the development and validation of new manufacturing systems. VC integrates different technologies such as 3D CAD, DES and PLC. DT models were also incorporated into the commissioning process. The DT models, along with the PCL design, provide an accurate view of how the design of automated systems will perform prior to physical commissioning when hardware and PLCs are put together.
