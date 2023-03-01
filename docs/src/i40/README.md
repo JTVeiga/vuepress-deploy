@@ -4,6 +4,46 @@
 seu navegador não suporta HTML5
 </audio>
 
+## Simulaton-based approaches applied in the context of Industry 4.0
+
+There are different approaches to simulation. The figure below provides an overview of these approaches in the I4.0 context:
+
+<div align="center">
+
+![Alt text](/SimulationI40.drawio.png "Simulation 4.0")
+
+</div>
+
+### Agent-Based Modeling and Simulation (ABMS)
+is considered a relatively new approach to model complex systems composed of interactive and autonomous agents. ABMS is defined as a set of elements (agents) characterized by attributes that interact with each other through "appropriate rules" for a given environment.
+The agent is a complex software unit capable of operating autonomously and following a set of rules.
+ABMS has an important participation as a model to achieve CPS
+
+### Discret Event Simulation (DES)
+> It is defined as "state variables that change only at the discrete points in time when the event occurs". The event consists of the occurrence that changes the state of the system. The system state variable represents all the information needed to describe the behavior of the system at a given point in time. DES is process-oriented, developed primarily using process flowcharts, and operates at discrete times. The level of abstraction of DES models is generally medium to low.
+
+### System Dynamics (SD)
+> is a continuous simulation approach to analyzing dynamic systems over time, using stock and flows and feedback loop diagrams and differential equations to represent systems component relationships. The use of stock and flow diagrams implies a quantitative approach (rigid modeling), while the qualitative approach, also called light operations research, involves only the use of influence diagrams (feedback loop).
+
+### Virtual Reality (VR)
+> is a virtual experience in which a user is immersed in a responsive virtual environment. This refers to a set of ICT technologies (ie, expression technology, interaction creation technology, authoring technology, collaboration technology) that allow the user to experience a virtual environment in an experimental simulation environment.
+
+### Augmented Reality (AR)
+> is a set of technologies (e.g., capturing device, display devices, interaction device, tracking system) that allows the direct or indirect view of the real-time physical world environment to be augmented (i.e., enhanced) by adding of virtual computers.
+
+### Artificial Inteligency (AI)
+> AI-Simulation is a domain of computer science related to the simulation of intelligent behavior in computers. Its subfields include machine learning, deep learning, natural language processing, computer vision, cognitive computing. AI can also be described as a set of techniques for modeling and simulating environmental systems, which includes artificial neural networks, fuzzy models, reinforcement learning, automata and metaheuristics.
+
+### Petry Net Simulation (PT)
+> is a graphical and analytical discrete event simulation used to model and simulate flexible manufacturing systems. The PN formalism is suitable for representing concurrent, asynchronous, distributed, parallel and stochastic systems. In general, a PN consists of four elements: places — represented by circles, transitions — represented by rectangles, edges — represented by direct arrows, and tokens — represented by small solids (Pishing et al., 2018).
+
+### Hybrid Simulation (HS)
+
+### Digital Twins (DT)
+
+### Virtual Commissioning (VC)
+> VC is a digitization method to accelerate the commissioning of a new production process through an environment. Known as a test method that uses simulation models and emulated controllers during the development and validation of new manufacturing systems. VC integrates different technologies such as 3D CAD, DES and PLC. DT models were also incorporated into the commissioning process. The DT models, along with the PCL design, provide an accurate view of how the design of automated systems will perform prior to physical commissioning when hardware and PLCs are put together.
+
 ## Pratical Guild to join in Industry 4.0 - I4.0
 
 I4.0 sought to unify and standardize different technologies so that traditional systems reach the concepts of "Advanced Manufacturing". The main aspects for migrating these systems deal with Cyber ​​Physical integration and virtualization of the different components so that they can be perceived in the virtual world.
