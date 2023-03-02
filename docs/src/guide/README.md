@@ -63,7 +63,7 @@ This web-page project was developed in Vuepress, however, based on the lessons l
 
   The current work proposes a method for the control and coalition of resources of a productive system based on multi-agents, through the virtualization of these resources in the context of I4.0. The proposal describes a methodology that allows the migration of manufacturing systems, an analysis of the dynamic behavior allows validating of the models conceived in High-Level Petri Nets (PFS) and Condition/Event Petri Nets (RdP C/E) that meet concepts of conservative components. The process simulation demonstrates the adequacy of the designed models, meeting the modeling requirements and behavioral properties. As there are still challenges to implementing the concepts used, the author hopes to contribute to migration and help in the design of control method models adapted to the guidelines of RAMI .40. A conceptual case study demonstrates the application of the method, in which the MAS control orchestrates AAS generating coalition tables that allow better use of resource services, which are re-planned in real-time..
 
-  [[Teses-USP](https://www.teses.usp.br/)]]
+  [[Teses-USP](https://www.teses.usp.br/teses/disponiveis/3/3152/tde-05122022-142002/en.php)]]
   [[PMR-LSA](http://pmrlsa.poli.usp.br/projects/intelligent-productive-systems/)]]
   [[Video](https://drive.google.com/file/d/1wP8eQmia8hCz2h59OFF5XcTdkTQvC5Va/view?usp=sharing)]
 
