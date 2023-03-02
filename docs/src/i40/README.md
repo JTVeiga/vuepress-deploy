@@ -21,6 +21,8 @@ There are different approaches to simulation.
 
 The figure above provides an overview of these approaches in the I4.0 context and bellow we will detail each of these concepts.
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
 ### Agent-Based Modeling and Simulation (ABMS)
 > is considered a relatively new approach to model complex systems composed of interactive and autonomous agents. ABMS is defined as a set of elements (agents) characterized by attributes that interact with each other through "appropriate rules" for a given environment.
 The agent is a complex software unit capable of operating autonomously and following a set of rules.
@@ -56,6 +58,9 @@ geometry, physics, behavior, and rule:  The first two levels involve mainly kine
 ### Virtual Commissioning (VC)
 > VC is a digitization method to accelerate the commissioning of a new production process through an environment. Known as a test method that uses simulation models and emulated controllers during the development and validation of new manufacturing systems. VC integrates different technologies such as 3D CAD, DES and PLC. DT models were also incorporated into the commissioning process. The DT models, along with the PCL design, provide an accurate view of how the design of automated systems will perform prior to physical commissioning when hardware and PLCs are put together.
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+
 ## Pratical Guild to join in Industry 4.0 - I4.0
 
 I4.0 sought to unify and standardize different technologies so that traditional systems reach the concepts of "Advanced Manufacturing". The main aspects for migrating these systems deal with Cyber ​​Physical integration and virtualization of the different components so that they can be perceived in the virtual world.
@@ -86,6 +91,8 @@ Traditional manufacturing systems were called in this article Legacy Systems - s
 
 > The interoperability of traditional assets is possible using the AAS specified in I4.0. Before starting the manipulation and vision of the AAS, we will study models and architectures to connect the physical part (Traditional System) with the virtual components (Connected World - I4.0).
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
 ### First Step - Integration of Legacy Systems
 
 RAMI 4.0 addresses guidelines for developing applications in the I4.0 context. Legacy systems that use classic control architectures need to be transformed into virtual models with AAS support.
@@ -97,6 +104,8 @@ RAMI 4.0 addresses guidelines for developing applications in the I4.0 context. L
 We will then follow the layered model of RAMI 4.0 to meet the standardization requirements of the languages ​​of the legacy system, the I4.0 language - OPC-UA. Thus physical assets will now be considered I4.0 - I4.0C components.
 
 > I4.0C must be unique, identifiable and meet communication requirements. An I.4.0 according to the descriptions of I4.0 can range from a sensor to an entire work plant, therefore, in this study we will consider I4.0C workstation modules, such as: Robotic Arm, Handling Station, Packing Machine
+
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 #### Details of RAMI 4.0 Layers for communication migration from Legacy Systems.
 
@@ -116,6 +125,8 @@ In this study, we will use a basic structure of AAS that exchange data with lega
 
 > Figure-x is about the simplified flow of information between station assets, integrator asset and PC-AAS asset.
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
 #### Simulation for Interoperability of Traditional Systems using OPC-UA
 
 Unified Architecture (OPC UA) is a service-oriented, platform-independent architecture that integrates all the functionality of classic OPC-UA.
@@ -133,6 +144,8 @@ The framework protocols of OPC UA communication presented a structure of message
 > PLCs (Programmable Logic Controllers) are an important control element in manufacturing configuration systems and there are many experts in the market who can interface and program such industrial computers. However, very few of them know how to connect PLCs to the IT world (e.g. cloud, augmented reality, mobile or web apps, etc.).
 
 > These devices can use wireless communication over standardised network protocols to communicate relevant data from each physical system back to a central server for monitoring and analysis. The results of this analysis can then be relayed back to the physical system to enable more autonomous operation, increase accuracy, improve maintenance and improve uptime. But the focus of this work is to achieve integration with AAS.
+
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 For a practical demonstration of the integration of traditional industry systems to virtual components, we present the basic theoretical aspects and software tools that are used in educational case studies:
 
@@ -163,6 +176,8 @@ After enabling the traditional systems to be perceived by the new I4.0 systems, 
  > means of communication, functionalities and services, standard identifiers.
 
 
+ [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
 ### Step Three - Integration of data from the traditional system with the virtual part of the AAS
 
 Industry 4.0 has to provide horizontal, vertical and full integration and interoperability.
@@ -177,7 +192,7 @@ We should keep an eye on the definitions and standards for smart manufacturing. 
 electronically active in a standardized way, allowing for interoperability bility between different assets in a plant.
 
 
-
+   [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
    [Brief in Whatsapp](https://wa.me/+5511992451218)
 
 ### Step Four - AAS Construction Practice Test
@@ -243,10 +258,12 @@ the RoboticArm
 #### AAS implementation
 
    [Brief in Whatsapp](https://wa.me/+5511992451218)
+   [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 ### Step Five - Bonus application development for data exchange between AAS.
 
    [Brief in Whatsapp](https://wa.me/+5511992451218)
+   [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 ### Production Flow Scheme - PFS
 
@@ -262,3 +279,5 @@ The class diagrams (UML - Unified Modeling Language) illustrate these elements a
 
 [1] Towards an Asset Administration Shell scenario: a use case for interoperability and standardization in Industry 4.0
 [2] Educational Case Studies for Pilot Engineer 4.0 Programme: Monitoring and Control of Discrete-Event Systems Using OPC UA and Cloud Applications
+
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]

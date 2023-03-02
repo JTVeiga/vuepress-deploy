@@ -92,6 +92,7 @@ The automation tests make it possible to execute the test plans, so we define wh
 ### Methodology and Estudy Case for Automatd Tests:
 
 [[Know More](https://wa.me/+5511992451218)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 </MarkdownCard>
 
@@ -124,6 +125,7 @@ This material is a summary of Ebook-01 (Species Prediction for Reforestation in 
 
 * Use of the chosen method in the context of the presented problem:
     [[Buy Ebook](https://wa.me/+5511992451218)]
+    [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 ## Tutorial Section
 
@@ -216,6 +218,7 @@ I hope you enjoyed this content, we intend to improve the quality in the future,
 I am available to collaborate on projects or carry out possible consultancy. Below where you can find me:
 
 [[Know More](https://wa.me/+5511992451218)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 See you soon, Jackson T. Veiga
 
@@ -283,6 +286,7 @@ To carry out this exercise it will be necessary to use the base (Internet Movie 
 
 #### 1.11 The budget column contains the film's budget. What is the median budget for all the films listed? Give the answer as an integer.
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 ///////////////////////////////////////////////////////////////////////////////
 ### 2 - Task Data Exploration and Analysis - Mobile Application of Users
 
@@ -311,3 +315,4 @@ In this exercise we will work with a real database, our exercise will be to expl
 
 #### 2.9 What is the median time between user registration and first purchase? Give the answer in seconds (!) As an integer.
 
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
