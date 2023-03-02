@@ -13,3 +13,4 @@
 [Contact Us Email](mailto:jackson.veiga@alumni.usp.br)
 
 
+[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)
