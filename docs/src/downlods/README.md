@@ -23,5 +23,32 @@ Our goal is to create an area to share digital knowledge offering classes and co
 [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 
+###  **Report Analysis and Classification of the Adult dataset - 01**
+
+> A popular example is the adult income dataset that involves predicting personal income levels as above or below
+  Predict whether income exceeds $50K/yr based on census data. Also known as "Adult" dataset.
+    50K than above $50K, although the skew is not severe.
+This means that techniques for imbalanced classification can be used whilst model performance can still be reported using classification accuracy, as is used with balanced classification problems.
+
+[[Download](https://www.passeidireto.com/arquivo/110675361/exercicio-classifiers-for-the-adult-dataset)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+
+###  **Report Analysis and Classification of the Adult dataset - 02**
+
+> In this second experiment, practice of classification techniques is carried out based on the “Adult Dataset” being
+composed of a data set of adults' personal income above or below U$ 50K/year. For this we use the classifiers Naive Bayes and Logistic Regression.
+A report and graphical analysis of the classifiers are provided.
+
+[[Download](https://www.passeidireto.com/arquivo/110675407/classifiers-for-the-adult-dataset-02)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+###  **A review of platforms for the development of agent systems**
+
+> This table was stracted from https://arxiv.org/abs/2007.08961 and presents a up-to-date review of the existing agent platforms and also a historical perspective of this domain. It aims to serve as a reference point for people interested in developing agent systems. This work details the main characteristics of the included agent platforms, together with links to specific projects where they have been used.
+
+[[Download](https://www.passeidireto.com/arquivo/111272704/tabelas-com-referencias-de-plataformas-multi-agentes-artigo-a-review-of-platform)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
 
 
