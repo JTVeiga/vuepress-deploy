@@ -1,8 +1,17 @@
-## UML Interaction diagrams -
+## UML Diagrams
 
+### Component Diagram - UML
+![Alt text](/DiagramaBlocosVeiga.jpg "Veiga_UML_01")
 
-### Serv-UML-01
-![Alt text](/DgraSeq.png "Veiga_UML_01")
+> A component diagram can be used to represent applications by highlighting the relationship between components. Components can have interfaces (ie abstract classes with operations) that allow associations between components.
+
+* Authors: Jackson Veiga (Agents)
+* Service Detail: artifacts they are made of such as source code files, programming libraries, or relational database tables.
+
+[[Download Example](xx)]
+
+### Sequence Diagram - UML
+![Alt text](/DgraSeq.png "Veiga_UML_02")
 
 > Sequence diagrams and collaboration diagrams are used to define the behavior of groups of objects. Usually, one interaction diagram captures the behavior of one use case. These diagrams are mainly used to define basic interactions between objects at the level of method invocation
 
@@ -11,8 +20,8 @@
 
 [[Download Example](xx)]
 
-### Serv-UML-02
-![Alt text](/DiagramaClasseUML.jpg "Veiga_UML_02")
+### CLasse Diagram - UML
+![Alt text](/DiagramaClasseUML.jpg "Veiga_UML_03")
 
 > Class diagrams clearly map the structure of a given system by modeling its classes, attributes, operations and relationships between objects
 
@@ -22,3 +31,4 @@
 [[Download Example](xx)]
 
 
+DiagramaBlocosVeiga.jpg
