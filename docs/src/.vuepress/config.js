@@ -42,6 +42,10 @@ module.exports = {
         link: '/config/'
       },
       {
+        text: 'Services',
+        link: '/services/'
+      },
+      {
         text: 'I4.0 Guide',
         link: '/i40/'
       },
