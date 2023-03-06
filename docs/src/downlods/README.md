@@ -51,4 +51,19 @@ A report and graphical analysis of the classifiers are provided.
 [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
 
 
+###  **Internet Movie Database to Task-01**
 
+> IMDb, also known as the Internet Movie Database, is an online database of information about TV movies, music and games, now owned by Amazon.
+We will use this basis for data analysis practices in Task 01 - working with data.
+
+[[Download](https://drive.google.com/file/d/18YxhOPvtvovxw2YxLlceXeA-4-727smt/view?usp=sharing)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+
+###  **Event_data Dataset to Task-02**
+
+> Download the event_data.csv dataset, which contains data on the use of the mobile application of users who registered from July 29 to September 1, 2019.
+We will use this basis for data analysis practices in Task 02 - working with data.
+
+[[Download](https://drive.google.com/file/d/19RnSjSAnAAcP1iPFeEje0GYUE445SFEV/view?usp=sharing)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
