@@ -67,3 +67,11 @@ We will use this basis for data analysis practices in Task 02 - working with dat
 
 [[Download](https://drive.google.com/file/d/19RnSjSAnAAcP1iPFeEje0GYUE445SFEV/view?usp=sharing)]
 [[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+
+###  **Transforming JSON dictionaries into Datatable and vice versa - Task-03**
+
+> In this training activity, the challenge was to load a Json dictionary and using the methods of this library to transform it into a table using Pandas. We also use the additional ast-python library to find out programmatically what the current grammar looks like..
+
+[[Download](https://colab.research.google.com/drive/1DaVKlUVrXv7IaPNVqk6y0h6P0SwmGQIB?usp=sharing)
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
