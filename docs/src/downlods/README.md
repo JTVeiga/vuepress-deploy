@@ -7,6 +7,15 @@ sidebar: auto
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
 
+###  **Abstract - How to perform graphical visualization of data using JSON**
+
+> Relational databases model data with a set of predetermined structures, then it becomes complex the joins of these sets of tables for content analysis,
+thus, efforts are valid to present techniques more efficient analysis and visualization of information. In this research we present how to perform graphical visualization of data using JSON Graph that introduces new primitive types to JSON to allow JSON to be used to represent chart information in a simple and consistent way.
+
+[[Download](https://drive.google.com/file/d/1AvC6wcN9CPKmHflcVSwRzx0Vx4zJ7LqC/view?usp=sharing)]
+[[I want a free clas - schedule](https://calendly.com/jackson-veiga-1/30min)]
+
+
 ###  **Guide - How to Produce a Scientific Academic Article**
 
 > This guide aims to present descriptions that support the six main pillars for the development of a scientific article. The content describes each of the topics, presents an opinion of the author based on publishing experiences and bonus with links to indexed bases and references
