@@ -1,3 +1,29 @@
+## Walking in the womb of mother earth
+
+> I walked slowly through the trees, carefully watching their
+greatness, so I started to feel that in that
+walking the void fills little by little
+I noticed that, with each step, my movement
+was accompanied, it was as if, in the silence
+in the void, a crowd accompanied me,
+its deepest roots entwined in me
+repeating this movement, I realized now
+to be a part of, I wasn't there but there as an observer
+I began to feel that, we were indoctrinated to
+exercise a superiority attitude over the mother
+divine, about the "great feminine" queen and,
+for ages, we have created mats preventing your
+splendor, we develop lifeless forms to
+meet this need for emptiness and, little by little,
+little before our macho Ego, the queen
+it became subtle. On this journey of ours, getting used to
+each feel to observe as an object
+as possession, as just one more thing
+sometimes prevents us from progressing.
+Our great mistake, distances us from the source,
+makes us small, empty and lost in a
+endless space, drifting from its roots.
+
 ## Nature's Architect
 
 > Somebody one day has thinked about this trees. Somebody one day has imagined their growing up and touthing the sky. He imagined each detail, the line, the crossing, how large. The trees give us fresh, one day somebody dreamed with this sense.
