@@ -1,3 +1,13 @@
+## Watcher of Me
+
+> Sitting down, I observe the process in an attempt to eliminate any thoughts. Would it be possible to continue behaving based on the different interferences I receive?
+It is simple, uncomplicated and willing to perform the greatest number of attempts. Not so attentive, but the vision no longer serves them, sitting there she fights a battle with herself, at certain times she enters again, then a sign of victory to time and its illusion.
+
+## She is all Hers
+
+> They are two beasts facing each other perfectly in positioning, similar in style and dominance of territory.
+They measure the risk but do not lose the glory, they are masters of themselves, fearless, powerful. They overflow Love, they possess the keys, the continuity of life. Even so, they fight for their space, which unconsciously is all theirs.
+
 ## Walking in the womb of mother earth
 
 > I walked slowly through the trees, carefully watching their
