@@ -1,5 +1,15 @@
 ## SOFTWARE DESIGN WITH UML DIAGRAMS
 
+### Machine Automation Diagram
+![Alt text](/MachineDiagram.jpg "Machine_01")
+
+> In the digitization of the industry, assets must be digitized, so semantic definitions and tool support for modeling and designing software artifacts are necessary. A library for these automation elements can be created by manufacturers and developers..
+
+* Authors: Jackson Veiga (Agents)
+* Service Detail: development of automation digital libraries, creation of block diagrams, UML, entity relationship diagrams, use of POO or POC programming paradigms, design of different components in programming language, creation of APIs, JSON or UML interface elements for data exchange between applications.
+
+[Contact-Us](/contact/)
+
 ### Component Diagram - UML
 ![Alt text](/DiagramaBlocosVeiga.jpg "Veiga_UML_01")
 

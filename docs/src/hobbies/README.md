@@ -1,3 +1,9 @@
+## Earth Distribution
+
+> The geographical distribution, it is an imaginary division created between peoples. Thus, the earth undertakes to accomplish these deeds like a big theater to attract the different tribes
+to the evolution environments of each species. When we emerge in these environments, we give the opportunity of being welcomed or taken advantage of, it's like visiting women's entertainment houses or sacred shrines, in a timeline that, inexplicably already
+It's embedded in our memories.
+
 ## Watcher of Me
 
 > Sitting down, I observe the process in an attempt to eliminate any thoughts. Would it be possible to continue behaving based on the different interferences I receive?
