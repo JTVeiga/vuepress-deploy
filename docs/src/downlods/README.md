@@ -7,6 +7,22 @@ sidebar: auto
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
 
+###  **JSON - Example of JSON Machine Object**
+
+> The JSON (JavaScript Object Notation) format is an open format used as an alternative to XML for transferring structured data between a web server and a web application. Its organization logic has similarities to XML, but has different notation. We use JSON as a unified language for exchanging data between different applications, currently JSON is widely used in all cycles from the database to the Front-end.
+
+[[Download](https://drive.google.com/file/d/1L0rWe-IK1ZNNhNc7R-YtcEGPlsPo2ak-/view?usp=share_link)
+[[I want to contract this service](https://calendly.com/jackson-veiga-1/30min)]
+
+
+###  **JSON-Schema - JSON-Schema Machine Object**
+
+> JSON Schema is an IETF standard providing a format for what JSON data is required for a given application and how to interact with it. In this sense, in programming we use JSON-Schema as a way to specify to programs the characteristics of the object being passed, so we follow this template to fill in the fields with attributes of the objects of each scenario.
+
+[[Download](https://drive.google.com/file/d/12hrNKZrIU1kp_nYC7RwW0_KzDoX4HxVm/view?usp=sharing)
+[[I want to contract this service](https://calendly.com/jackson-veiga-1/30min)]
+
+
 ###  **Abstract - How to perform graphical visualization of data using JSON**
 
 > Relational databases model data with a set of predetermined structures, then it becomes complex the joins of these sets of tables for content analysis,

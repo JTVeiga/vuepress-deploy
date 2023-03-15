@@ -1,3 +1,18 @@
+## DATA EXCHANGE - STANDARDS
+
+### Machine Automation JSON-Schema
+![Alt text](/JSON_MachineA.png "Machine_A")
+
+> JSON has gained momentum in API code programming and web services because it helps in faster data interchange and web service results. It is text-based, lightweight, and has an easy-to-parse data format requiring no additional code for parsing. Programmers, developers, and IT professionals need to transfer populated data structures from any language to formats that are recognizable by other languages and platforms. JavaScript Object Notation (JSON) is the data-exchange format that makes this possible.
+
+* Authors: Jackson Veiga
+* Service Detail: Is standardization of data exchange important to you? With JSON we can perform parsing or serialization, standardization of the data structure for network exchange, temporary data storage, interoperability between systems, loading data on the web, credentials, log file, temporary component data, among other services..
+
+[Contact-Us](/contact/)
+
+[Download an Example](/downlods/)
+
+
 ## SOFTWARE DESIGN WITH UML DIAGRAMS
 
 ### Machine Automation Diagram
