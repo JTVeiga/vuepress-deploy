@@ -7,6 +7,30 @@ sidebar: auto
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
 
+###  **Development of a forecasting system demand and consortiation in productive models and of planting in the CSA.**
+
+> The world is increasingly interconnected, thus demanding new practices that place sustainable measures at the center.
+You Agroecosystems are options to minimize the impacts caused by humanity to the environment.
+The conventional model of organization of the food production and distribution chain is linked to financial and industrial capital,
+these do not have a strong connection with final consumers, not respecting the seasonality of planting times, having poles
+massive production processes that use soil and genetic alterations to meet large-scale demand. On the other hand, the
+Communities Sustained by Agriculture - CSA, create a direct relationship with the community respecting the seasonality of planting and
+seeking to deliver a basket of products according to the season.
+Current global food production mechanisms are in the upper production cycle, targeting profit and price, in the other direction
+the lower circuits stand out, in this context there is a direct approximation between producers and consumers, consequently
+eliminating commercial intermediaries. In this modality, the foods are grown by season, so there is a need to
+creation of relationship matrices to improve smallholders' planning and strengthen individual systems of
+production.
+Decisions in this field are normally centered on periodic meetings in which voting takes place, so surveys are valid.
+that seek to create intelligent systems to support different groups of producers based on historical and different information
+relating the processes involved in the system.
+The focus of the CSA is the structuring of local community networks that bring together those who produce and those who consume, this partnership seeks to healthy relationships in the field. Cooperativism is inspired by the concept of “associative economy”, with the well-being of
+all the people involved, with community being a common goal.
+
+[[Download](https://drive.google.com/file/d/1JZ0zA3SlECbXAafbh9Wdusshjt5eY_AK/view?usp=sharing)
+[[I want to know about this project](https://calendly.com/jackson-veiga-1/30min)]
+
+
 ###  **JSON - Example of JSON Machine Object**
 
 > The JSON (JavaScript Object Notation) format is an open format used as an alternative to XML for transferring structured data between a web server and a web application. Its organization logic has similarities to XML, but has different notation. We use JSON as a unified language for exchanging data between different applications, currently JSON is widely used in all cycles from the database to the Front-end.
