@@ -6,6 +6,15 @@ sidebar: auto
 
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
+###  **NEXT bank report - How to use this information to offer assistance and services customized for our customers.**
+
+> Seeking to better answer this question, an exploratory analysis of the scenario was carried out banks in a digital context. There is a growth at the end of 2019 of 53.6% in global population of people using online devices according to (Internet Technology) Information and Communication - ICT) (Pucihar, 2017).
+
+> In this report you will find studies carried out about the proposed theme with qualitative and quantitative analyzes in addition to the proposal of a data analysis method for creating a PoC using Design Thinking and CRISP-DM
+
+[[Download](https://drive.google.com/file/d/1xBGna9arscVDo4kmJ6QcwgFohdSO61P4/view?usp=sharing)
+[[I want to know about this project](https://calendly.com/jackson-veiga-1/30min)]
+
 
 ###  **Development of a forecasting system demand and consortiation in productive models and of planting in the CSA.**
 
