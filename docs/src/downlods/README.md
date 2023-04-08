@@ -6,6 +6,16 @@ sidebar: auto
 
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
+
+###  Docker DJANGO and Postgres
+
+In this repository I have prepared two docker containers using docker-compose for Django with database in a docker using Postgres.
+
+> The Dockerfile defines an application’s image content via one or more build commands that configure that image. Once built, you can run the image in a container. For more information on Dockerfile, see the Docker user guide and the Dockerfile reference.
+
+[[Download](https://github.com/JTVeiga/DJANGO_Tests)
+[[I want to know about this project](https://calendly.com/jackson-veiga-1/30min)]
+
 ###  **NEXT bank report - How to use this information to offer assistance and services customized for our customers.**
 
 > Seeking to better answer this question, an exploratory analysis of the scenario was carried out banks in a digital context. There is a growth at the end of 2019 of 53.6% in global population of people using online devices according to (Internet Technology) Information and Communication - ICT) (Pucihar, 2017).
