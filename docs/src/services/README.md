@@ -1,5 +1,18 @@
 ## DATA EXCHANGE - STANDARDS
 
+
+### Material List JSON to Table
+![Alt text](/JSONtoTABLE.PNG.png "Material_List")
+> One of the tools widely used in engineering is excel tables, naturally we create tables for everything: List of Materials, List of Components, Budget, Planning, Costs, Specifications, Detailed Projects, among others. I think we can improve the manual creation of these tables using standard data structures, for example JSON, so we focus on the component specifications, letting IT services be able to make the final generation of the tables more flexible. In this service example I make a small test considering the conversion of an Array into tables for visualization as we are used to doing.
+
+* Authors: Jackson Veiga
+* Service Detail: List of Materials, List of Components, Budget, Planning, Costs, Specifications, Detailed Projects, among others.
+
+[Contact-Us](/contact/)
+
+[Download an Example](/downlods/)
+
+
 ### Machine Automation JSON-Schema
 ![Alt text](/JSON_MachineA.png "Machine_A")
 
