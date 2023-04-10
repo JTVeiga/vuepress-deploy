@@ -6,6 +6,14 @@ sidebar: auto
 
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
+
+###  Dashboards to Business Analytics
+
+> Dashboards are widely used as management tools, from which you can check key indicators, perform analysis, metrics, business statistics and processes such as production.
+> In this repository I created an example development container for the ALFA3-BD project in order to collect and display relevant data for analyzing students' literacy performance.
+[[Download](https://github.com/JTVeiga/Dash_Flask/)
+[[I want to know about this project](https://calendly.com/jackson-veiga-1/30min)]
+
 ### Material List JSON to Table
 
 > One of the tools widely used in engineering is excel tables, naturally we create tables for everything: List of Materials, List of Components, Budget, Planning, Costs, Specifications, Detailed Projects, among others. I think we can improve the manual creation of these tables using standard data structures, for example JSON, so we focus on the component specifications, letting IT services be able to make the final generation of the tables more flexible. In this service example I make a small test considering the conversion of an Array into tables for visualization as we are used to doing.

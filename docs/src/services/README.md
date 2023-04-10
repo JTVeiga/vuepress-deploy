@@ -1,5 +1,14 @@
-## DATA EXCHANGE - STANDARDS
+### Dashboards to Business Analytics
+![Alt text](/Dashboards_Flask.png "Dashboards")
+> Dashboards are widely used as management tools, from which you can check key indicators, perform analysis, metrics, business statistics and processes such as production.
+> Business analytics is a promising area in the digital age for exploring and investigating application performance, gaining insights and driving new plans..
 
+* Authors: Jackson Veiga
+* Service Detail: Build indicators of applications, processes, maintenance, production, manufacturing, platform access flow, among other digital applications that are oriented to data analysis and statistics..
+
+[Contact-Us](/contact/)
+
+[Download an Example](/downlods/)
 
 ### Material List JSON to Table
 ![Alt text](/JSONtoTABLE.PNG.png "Material_List")
