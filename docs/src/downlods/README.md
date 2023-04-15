@@ -7,6 +7,12 @@ sidebar: auto
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
 
+###  State Transition Test - FSM Simulation
+
+> "Finite State Machine" (abbreviated FSM), also called "State Machine" or "Finite State Automaton" is an abstract machine consisting of a set of states (including the initial state and one or more final states), a set of input events, a set of output events, and a state transition function. In this example we treat a ticket purchase process, these techniques are used as concepts for "State Transition Test".
+[[Download](https://colab.research.google.com/drive/1SRJDDWAj-UJTNSHHz10Mq_eUrB743Hlf?usp=sharing)
+[[I want to know about this project](https://calendly.com/jackson-veiga-1/30min)]
+
 ###  Dashboards to Business Analytics
 
 > Dashboards are widely used as management tools, from which you can check key indicators, perform analysis, metrics, business statistics and processes such as production.
