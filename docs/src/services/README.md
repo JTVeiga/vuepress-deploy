@@ -1,3 +1,16 @@
+### State Transition Test - FSM Simulation
+![Alt text](/FSM_BuyTicket.png "FSM Simulation")
+> "Finite State Machine" (abbreviated FSM), also called "State Machine" or "Finite State Automaton" is an abstract machine consisting of a set of states (including the initial state and one or more final states), a set of input events, a set of output events, and a state transition function.
+> A state machine can be simulated and validated using Petri Net (PN) techniques.
+> In this example we treat a ticket purchase process, these techniques are used as concepts for "State Transition Test" - TTE: TTE is a black box testing technique for observing the behavior of a given system by applying different input conditions and verifying that the system's behavior is met.
+
+* Authors: Jackson Veiga
+* Service Detail: State Machine Basic Simulators, Discret Event Systems, Petri Net Diagrams, State Transition Test Diagramas Validator.
+
+[Contact-Us](/contact/)
+
+[Download an Example](/downlods/)
+
 ### Dashboards to Business Analytics
 ![Alt text](/Dashboards_Flask.png "Dashboards")
 > Dashboards are widely used as management tools, from which you can check key indicators, perform analysis, metrics, business statistics and processes such as production.
