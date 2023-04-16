@@ -1,3 +1,29 @@
+---
+sidebar: auto
+---
+
+# Skills Provided - Services
+
+Below you will find the different resources and tools used in different stages of simulation or data science
+![Alt text](/StagesSimulationStudy.png "Simulation Stages")
+
+### Simulation with NETLOGO
+![Alt text](/NETLOGO_Simuation.png "NETLOGO Simulation")
+> NetLogo is a multi-agent programmable modeling environment. It is used by many hundreds of thousands of students, teachers, and researchers worldwide.
+
+> NetLogo is a simple programming language adapted to modelling/simulating natural and/or social phenomena:
+
+ >is suitable for modeling complex systems that evolve over time,
+ is suitable for modeling hundreds or thousands of individuals (people, bacteria, insects, nations, organizations, etc.) that interact with each other and with the environment,
+ it allows exploring the connection between local interactions between individuals and the macroscopic patterns emerging from these same interactions.
+
+* Authors: Jackson Veiga
+* Service Detail: Experiment with simulations, Create models for hypothesis testing, Simulations in natural sciences and complex systems.
+
+[Contact-Us](/contact/)
+
+[Watch an Example](https://youtu.be/QnFXzNwZFCY)
+
 ### State Transition Test - FSM Simulation
 ![Alt text](/FSM_BuyTicket.png "FSM Simulation")
 > "Finite State Machine" (abbreviated FSM), also called "State Machine" or "Finite State Automaton" is an abstract machine consisting of a set of states (including the initial state and one or more final states), a set of input events, a set of output events, and a state transition function.
