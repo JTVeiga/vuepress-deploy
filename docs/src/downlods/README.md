@@ -6,6 +6,13 @@ sidebar: auto
 
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
+###  Carnegie Mellon University Deep Learning
+
+> “Deep Learning” systems, typified by deep neural networks, are increasingly taking over all AI tasks, ranging from language understanding, and speech and image recognition, to machine translation, planning, and even game playing and autonomous driving. As a result, expertise in deep learning is fast changing from an esoteric desirable to a mandatory prerequisite in many advanced academic settings, and a large advantage in the industrial job market.
+
+> In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and be able to apply Deep Learning to a variety of tasks. They will also be positioned to understand much of the current literature on the topic and extend their knowledge through further study..
+
+[[Download](https://www.youtube.com/watch?v=7W2wR-VoMn0&list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
 
 ###  State Transition Test - FSM Simulation
 
