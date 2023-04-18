@@ -7,6 +7,20 @@ sidebar: auto
 Below you will find the different resources and tools used in different stages of simulation or data science
 ![Alt text](/StagesSimulationStudy.png "Simulation Stages")
 
+
+### Agents Behavior Trees - BT
+![Alt text](/BehaviorTrees.png "BT")
+> A behavior tree is a mathematical model of execution plans, usually describing the switching between a finite set of tasks. Unlike FSM, BT are arranged in a hierarchical and modular way, their properties are widely used in game programming for agent behavior.
+In this image, the ticket purchase FSM was transcribed, notice how easy it is to identify the tree structure from parent to child in which the process flow can be observed in the course of the network nodes.
+
+* Authors: Jackson Veiga
+* Service Detail: BT for behaviors of applications and software programs, agent behavior, aircraft decision models, machine control, manufacturing and diverse processes in areas such as health, manufacturing, aerospace..
+
+[Contact-Us](/contact/)
+
+[Download an Example](/downlods/)
+
+
 ### Simulation with NETLOGO
 ![Alt text](/NETLOGO_Simuation.png "NETLOGO Simulation")
 > NetLogo is a multi-agent programmable modeling environment. It is used by many hundreds of thousands of students, teachers, and researchers worldwide.
