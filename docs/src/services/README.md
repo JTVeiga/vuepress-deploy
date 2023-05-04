@@ -7,6 +7,15 @@ sidebar: auto
 Below you will find the different resources and tools used in different stages of simulation or data science
 ![Alt text](/StagesSimulationStudy.png "Simulation Stages")
 
+### Software Architecture
+![Alt text](/Software_Architecture.png "Sw Architecture")
+> In software architecture, we define a system, its components, as well as define its external properties, and its relationships with other software..
+
+* Authors: Jackson Veiga
+* Service Detail: Integration of different frameworks, specification of softwares architectures, researche and data analysis, web plataforms, simulations environment, architecture documentation.
+
+[Contact-Us](/contact/)
+
 
 ### Agents Behavior Trees - BT
 ![Alt text](/BehaviorTrees.png "BT")

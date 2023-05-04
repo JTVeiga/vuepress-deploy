@@ -6,6 +6,12 @@ sidebar: auto
 
 Our goal is to create an area to share digital knowledge offering classes and consulting:
 
+### Abstract - Digital Twin: Enabling Technologies, Challenges and Open Research
+
+> This presentation was made in the elimination stage to compete for a PhD vacancy at the company Orange in France. In these slides you can see presentation structure and method for article summary..
+
+[Download the Presentation](https://drive.google.com/file/d/1WyWK_SGcoc2ZDfg-ocb46dgr8EZO3v1R/view?usp=sharing)
+
 ###  Simple Example Simulation with NETLOGO
 
 > This video is a simple demonstration of code for route simulation using NETOGO. At first, a view of the creation of the turtle and a random route are provided seeking oult a circular trajectory.
